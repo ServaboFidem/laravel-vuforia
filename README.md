@@ -4,7 +4,7 @@ Vuforia web service API for Laravel
 ## Install
 
 ```shell
-composer require panoscape/laravel-vuforia
+composer require servabofidem/laravel-vuforia
 ```
 
 Service provider
