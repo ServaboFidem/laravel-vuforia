@@ -4,7 +4,7 @@ namespace Panoscape\Vuforia\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
-class VuforiaWebService extends Facade
+class VuforiaWebServiceFacade extends Facade
 {
     /**
      * The name of the binding in the IoC container.
